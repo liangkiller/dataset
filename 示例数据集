@@ -1,0 +1,14 @@
+curl -O https://people.apache.org/~jdcryans/word_count.csv
+----
+the,213
+to,99
+and,58
+a,53
+you,43
+.......
+====
+
+https://github.com/markgrover/cloudcon-hive
+
+http://tech.donghao.org/2016/07/05/example-datasets-for-hive-learning/
+有雇员和工资数据集
